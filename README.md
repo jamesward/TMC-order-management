@@ -1,6 +1,1 @@
-echo "# TMC-order-management" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/icegalaxy/TMC-order-management.git
-git push -u origin master
+[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/icegalaxy/TMC-order-management.git)
